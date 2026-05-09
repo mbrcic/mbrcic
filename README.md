@@ -1,16 +1,20 @@
-## Hi there 👋
+  ## Mario Brčić
 
-<!--
-**mbrcic/mbrcic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  Strategy Engines for high-stakes decisions — research and practice.
 
-Here are some ideas to get you started:
+  - Personal / academic: [mariobrcic.com](https://mariobrcic.com/)
+  - Practitioner arm: [itfrombit.biz](https://itfrombit.biz/)
+  - ORCID: [0000-0002-7564-6805](https://orcid.org/0000-0002-7564-6805)
+  - Canonical identity:
+  [mariobrcic.com/identity/](https://mariobrcic.com/identity/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  Associate Professor at FER (University of Zagreb), leading the
+  research on intelligent systems for strategic
+  decision-making in complex, uncertain, multi-system environments.
+  Methods from operations research, category theory, dynamical systems,
+  design science. Themes: causal modeling of decision systems, scalable
+  agent cooperation, AI governance under impossibility constraints.
+
+  Most repos are research scaffolding, teaching artifacts, or
+  infrastructure for the sites above. Ask before forking, some are
+  intentionally not packaged for reuse.

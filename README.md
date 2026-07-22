@@ -15,6 +15,19 @@
   design science. Themes: causal modeling of decision systems, scalable
   agent cooperation, AI governance under impossibility constraints.
 
+  ### Selected upstream contributions
+
+  - **minimap2** — portable SIMD (sse2neon → SIMDe) + non-SIMD build,
+  enabling ARM/aarch64 support:
+  [lh3/minimap2#597](https://github.com/lh3/minimap2/pull/597)
+  - **spoa** — portable SIMD via SIMDe
+  ([rvaser/spoa#29](https://github.com/rvaser/spoa/pull/29)) and a CPU
+  dispatcher across SIMD architectures
+  ([rvaser/spoa#33](https://github.com/rvaser/spoa/pull/33))
+  - **pybliometrics** — generalized abstract retrieval by different
+  Scopus identifier types:
+  [pybliometrics-dev/pybliometrics#71](https://github.com/pybliometrics-dev/pybliometrics/pull/71)
+
   Most repos are research scaffolding, teaching artifacts, or
   infrastructure for the sites above. Ask before forking, some are
   intentionally not packaged for reuse.

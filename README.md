@@ -28,6 +28,15 @@
   Scopus identifier types:
   [pybliometrics-dev/pybliometrics#71](https://github.com/pybliometrics-dev/pybliometrics/pull/71)
 
+  ### Notable earlier work
+
+  - **Early explainable-optimization precedent** —
+  [tracking-predictive-gantt](https://github.com/mbrcic/tracking-predictive-gantt):
+  a 2018 visual-explainability method (ECDF uncertainty + counterfactual
+  overlays) predating modern XAI-for-optimization; its diagnosed failure
+  modes drove a follow-up scheduler with up to ~770% gains over prior SOTA.
+  [DOI](https://doi.org/10.5281/zenodo.21493504)
+
   Most repos are research scaffolding, teaching artifacts, or
   infrastructure for the sites above. Ask before forking, some are
   intentionally not packaged for reuse.

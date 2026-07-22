@@ -37,6 +37,6 @@
   modes drove a follow-up scheduler with up to ~770% gains over prior SOTA.
   [DOI](https://doi.org/10.5281/zenodo.21493504)
 
-  Most repos are research scaffolding, teaching artifacts, or
-  infrastructure for the sites above. Ask before forking, some are
-  intentionally not packaged for reuse.
+  The pinned repositories are the packaged, reproducible work; others range
+  from active research to teaching material at varying polish. Explore and
+  fork freely — questions and collaboration welcome.

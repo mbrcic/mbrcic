@@ -1,4 +1,4 @@
-  ## Mario Brčić
+  ## Mario Brcic
 
   Strategy Engines for high-stakes decisions — research and practice.
 
@@ -14,6 +14,18 @@
   Methods from operations research, category theory, dynamical systems,
   design science. Themes: causal modeling of decision systems, scalable
   agent cooperation, AI governance under impossibility constraints.
+
+  ### Current projects
+
+  - **[Modern Algorithm Design](https://modernalgorithmdesign.com)** — a
+  textbook on designing algorithms from reusable primitives, and on asking
+  precisely for what an algorithm must do. Its code, each structure in
+  Python, Rust and Lean, is in
+  [algodesign](https://github.com/mbrcic/algodesign).
+  - **[AI Safety Formalization Atlas](https://github.com/mbrcic/ai-safety-formalization-atlas)**
+  — an open Lean 4 library of machine-checked AI-safety mathematics, with
+  every result's source and scope on record.
+  [Documentation](https://mbrcic.github.io/ai-safety-formalization-atlas/).
 
   ### Selected upstream contributions
 

@@ -7,9 +7,9 @@ AI alignment: stating what AI must do, and checking it by machine.
 - Canonical identity: [mariobrcic.com/identity/](https://mariobrcic.com/identity/)
 
 Associate Professor at FER (University of Zagreb). The work has four parts:
-stating exactly what AI must do, tools that check it (formal verification,
-interpretability of language models), the limits no alignment method can get
-past, and who sets AI's goals.
+stating exactly what AI must do, building the tools that check it (formal
+verification, interpretability of language models), finding the limits no
+alignment method can get past, and asking who sets AI's goals.
 
 ### Current projects
 
@@ -24,8 +24,8 @@ past, and who sets AI's goals.
   via Political Axes* (AIES 2026).
 - **[Modern Algorithm Design](https://modernalgorithmdesign.com)** — a
   textbook on designing algorithms from reusable primitives, and on stating
-  precisely what an algorithm must guarantee. Its code, each structure in
-  Python, Rust and Lean, is in
+  precisely what an algorithm must guarantee. Its code, with each structure
+  in Python, Rust and Lean, is in
   [algodesign](https://github.com/mbrcic/algodesign).
 
 ### Selected upstream contributions
@@ -43,13 +43,13 @@ past, and who sets AI's goals.
 
 ### Notable earlier work
 
-- **Early explainable-optimization precedent** —
+- **Explainable optimization (2018)** —
   [tracking-predictive-gantt](https://github.com/mbrcic/tracking-predictive-gantt):
-  a 2018 visual-explainability method (ECDF uncertainty + counterfactual
-  overlays) predating modern XAI-for-optimization; its diagnosed failure
-  modes drove a follow-up scheduler with up to ~770% gains over prior SOTA.
+  a visual-explainability method for stochastic scheduling (ECDF uncertainty
+  and counterfactual overlays). The failure modes it exposed led to a
+  follow-up scheduler with gains of up to ~770% over the prior state of the art.
   [DOI](https://doi.org/10.5281/zenodo.21493504)
 
-The pinned repositories are the packaged, reproducible work; others range
-from active research to teaching material at varying polish. Explore and
-fork freely — questions and collaboration welcome.
+The pinned repositories are the packaged, reproducible work. The others range
+from active research to teaching material, at varying polish. Questions and
+collaboration are welcome.
